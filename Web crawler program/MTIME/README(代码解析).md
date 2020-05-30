@@ -100,7 +100,7 @@ def Insert(VALUE):
     cursor.execute(sql,VALUE)
     db.commit()
     db.close()
-
+```
 
 
 
